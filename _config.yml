@@ -28,7 +28,7 @@ github_username: StevenH237
 timezone: America/Detroit
 
 # Build settings
-remote_theme: StevenH237/midnight@016d204
+remote_theme: StevenH237/midnight@b9586ba
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
