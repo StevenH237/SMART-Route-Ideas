@@ -8,3 +8,5 @@ layout: home
 I'm Steven, and this is my site about SMART bus route ideas and changes.
 
 The [about page](about) explains why I'm doing this. Otherwise, feel free to just jump directly into the ideas below!
+
+I've got [new routes](new-routes), or my most recent ideas are listed here at the bottom.
