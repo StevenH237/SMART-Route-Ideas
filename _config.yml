@@ -22,7 +22,7 @@ title: Steven's SMART Route Ideas
 email: smart-ideas-github@steven-h.net
 description: >- # this means to ignore newlines until "baseurl:"
   Here are some ideas for SMART routes in metro Detroit, MI!
-baseurl: "/smart-route-ideas" # the subpath of your site, e.g. /blog
+baseurl: "/SMART-Route-Ideas" # the subpath of your site, e.g. /blog
 url: "https://stevenh237.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: StevenH237
 timezone: America/Detroit
